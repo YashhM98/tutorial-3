@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="txtn1">Number 1</string>
+    <string name="txtn2">Number 2</string>
+    <string name="btnok">Ok</string>
+    <string name="btnadd">+</string>
+    <string name="btnmin">-</string>
+    <string name="btnmul">*</string>
+    <string name="btndev">/</string>
+</resources>
